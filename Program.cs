@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("First git app");
 // Zmiana lokalna
+// zmiana na serwerze
