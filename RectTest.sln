@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rect", "Rect\Rect.csproj", "{4051B761-DC0E-40F6-9D66-7C7023569EF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{351B9C3F-E874-4CB3-821D-698536886635}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "TestRect\TestRect.csproj", "{351B9C3F-E874-4CB3-821D-698536886635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

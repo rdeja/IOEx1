@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace Rect
-{
-    public class Rect
+
+    public class RectCl
     {
         public int Area(int w, int h)
         {
             return w*h;
         }
     }
-}
+

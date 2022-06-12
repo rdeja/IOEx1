@@ -1,6 +1,5 @@
 using System;
 using Xunit;
-using Rect;
 
 namespace Test
 {
@@ -9,9 +8,9 @@ namespace Test
         [Fact]
         public void Test1()
         {
-            Rect r = new Rect();
+            RectCl r = new RectCl();
             int res = r.Area(2, 3);
-            Assert.Equal(5, res);            
+            Assert.Equal(6, res);            
         }
     }
 }
